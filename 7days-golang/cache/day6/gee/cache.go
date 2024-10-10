@@ -1,7 +1,7 @@
 package gee
 
 import (
-	"learn-go/7days-golang/cache/day5/lru"
+	"learn-go/7days-golang/cache/day6/lru"
 	"sync"
 )
 
